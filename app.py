@@ -1,9 +1,5 @@
-The interface will be available at `http://localhost:7860` (or the URL provided by Hugging Face Spaces).
+La aplicacion se iniciara en `http://localhost:7860`.
 
-## Environment variables
+## Dependencias
 
-No external API keys are required for this demo.
-
-## License
-
-MIT
+Todas las dependencias estan listadas en `requirements.txt`.
